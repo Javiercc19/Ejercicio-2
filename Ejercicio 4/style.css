@@ -1,0 +1,25 @@
+h1 {
+    border-bottom: 2px solid #00F;
+    padding-bottom: 5px;
+}
+
+
+h2 {
+    border: 2px solid #AAA;
+    padding: 5px;
+}
+
+
+.datos_del_libro {
+    border-top: 4px dotted #F00;
+    border-bottom: 4px dotted #F00;
+    padding: 10px;
+    list-style: square;
+}
+
+
+.lista-contenido-libro {
+    border: 2px dashed #0F0;
+    padding: 10px;
+    list-style: circle;
+}
